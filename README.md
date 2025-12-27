@@ -35,7 +35,7 @@
 ## 5. 실행 및 배포 (How to Run)
 1. **라이브러리 설치**: `pip install streamlit pandas numpy plotly scikit-learn`
 2. **대시보드 실행**: `streamlit run app.py`
-3. **실시간 대시보드 주소**: [AI Co-teacher 라이브 서비스 바로가기]([https://ai-co-teacher-v3-vtnocrr4brtpyappedof7pc.streamlit.app/])
+3. **실시간 대시보드 주소**: [AI Co-teacher 라이브 서비스 바로가기](https://ai-co-teacher-v3-vtnocrr4brtpyappedof7pc.streamlit.app/)
 
 ## 📂 데이터 입력 명세 (CSV Header Specification)
 본 시스템은 CSV 파일 업로드를 통해 데이터를 관리하며, 다음 헤더 구조를 준수해야 합니다.
